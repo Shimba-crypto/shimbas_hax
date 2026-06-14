@@ -1,0 +1,4 @@
+test:
+	pytest
+format:
+	black .

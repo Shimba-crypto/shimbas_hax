@@ -1,0 +1,16 @@
+[build-system]
+requires=["setuptools>=61"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="shimbas-hax"
+version="2.0.0"
+description="Whimsical 7-stage obfuscation"
+readme="README.md"
+requires-python=">=3.8"
+license={text="MIT"}
+authors=[{name="OpenAI"}]
+dependencies=[]
+
+[project.scripts]
+shimbas-hax="shimbas_hax.cli:main"
