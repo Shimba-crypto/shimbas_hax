@@ -7,7 +7,7 @@ Playful 7-stage "deep encryption" library.
 ## Install
 
 ```bash
-pip install -e .
+pip install shimbas_hax
 ```
 
 ## CLI
